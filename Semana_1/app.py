@@ -1,7 +1,7 @@
 # Archivo base para el despliegue del Agente en Streamlit
-from sklearn.linear_model import LinearRegression
+
 import streankut as st
-import sklearn.linear_model import LinearRegression
+from sklearn.linear_model import LinearRegression
 import numpy as np
 
 st.title("Configuracion inicial")
